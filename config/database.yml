@@ -1,0 +1,7 @@
+development:
+  adapter: mysql2
+  database: wins_db
+  host: localhost
+  username: root
+  password: root1234
+  encoding: utf8
